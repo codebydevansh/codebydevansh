@@ -137,15 +137,15 @@ Python • Machine Learning • Data Visualization
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebydevansh&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebydevansh&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codebydevansh&theme=tokyonight)
 
 ---
 
 ## 🏆 Achievements
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)
+![Trophy](https://github-profile-trophy.vercel.app/?username=codebydevansh&theme=tokyonight)
 
 ---
 
