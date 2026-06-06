@@ -185,9 +185,9 @@ Python • Machine Learning • Data Visualization
 
 ## 🌐 Connect With Me
 
-LinkedIn: YOUR_LINKEDIN_URL
+LinkedIn: www.linkedin.com/in/devanshpatil
 
-Email: YOUR_EMAIL
+Email: eng.devanshpatil@gmail.com
 
 Portfolio: COMING SOON
 
