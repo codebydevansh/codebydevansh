@@ -35,11 +35,11 @@ Convert complex datasets into meaningful business decisions.
 
 | Metric | Value |
 |---------|---------|
-| SQL Queries Written | 500+ |
-| Dashboards Developed | 15+ |
-| Data Records Analyzed | 50,000+ |
+| SQL Queries Written | 50+ |
+| Dashboards Developed | 5+ |
+| Data Records Analyzed | 15000+ |
 | Technologies Learned | 10+ |
-| Projects Completed | 12+ |
+| Projects Completed | 8+ |
 
 ---
 
@@ -73,7 +73,7 @@ Convert complex datasets into meaningful business decisions.
 
 ## 📊 Skill Matrix
 
-SQL               ██████████ 95%
+SQL               ███████ 70%
 
 Excel             ██████████ 95%
 
@@ -85,7 +85,7 @@ Tableau           ████████   80%
 
 QA Testing        ███████    70%
 
-Data Engineering  ██████     60%
+Data Engineering  █    10%
 
 ---
 
